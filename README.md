@@ -49,7 +49,6 @@ In summary, companies with stronger ESG values often win more trust from custome
 8. Europe leads with an average ESG score of 68.15, showing strong environmental policies and public demand for ethical business. North America and Oceania follow closely, suggesting mature ESG frameworks in those regions.
 Asia and Latin America are catching up, with room for improvement and growing awareness. Africa and the Middle East are behind, possibly due to fewer regulations, infrastructure challenges, or reporting limitations.
 9. The Environmental pillar of ESG had the strongest link to financial performance. It showed a positive correlation with profit margin, revenue, and market cap.
-
 This means companies that prioritize environmental efforts often make more money and grow faster.
 10. The Social and Governance pillars showed weaker links for now.
 11. ESG scores have steadily improved from 2016 to 2025, rising from 52.04 to 57.83.
@@ -61,22 +60,21 @@ This upward trend suggests companies are slowly but surely embracing ESG, likely
 ### **RECOMMENDATION**
 
 1. Invest in high ESG performers:
-
 Companies like Company_478, 472, 353, 870, and 444 show strong ESG scores, low risk, and long-term potential. Investors should prioritize these companies for sustainable returns.
+
 2. Support medium ESG companies, they bring in the most revenue:
-
 Medium ESG companies are contributing 61% of total revenue. They are leading but have room to improve. With a little ESG push, they can deliver even better performance.
+
 3. Improve ESG policies in lagging regions:
-
 Africa and the Middle East are behind in ESG scores. Focus on better policies, education, and awareness in these regions. Use Europe, North America, and Oceania as benchmarks for strong ESG practices.
+
 4. Start with Environmental improvements, it pays off:
-
 The Environmental pillar has the strongest link to financial performance. Even small changes in emissions or resource management can lead to higher profits and stronger market performance.
+
 5. Track ESG progress over time:
-
 ESG scores are rising steadily from 52.04 in 2016 to 57.83 in 2025. Look out for companies making consistent progress. Early investment in these businesses could lead to great returns.
-6. Focus ESG improvements on weak industries:
 
+6. Focus ESG improvements on weak industries:
 Transportation, Energy, and Manufacturing have the lowest ESG scores. Helping these industries improve can lower risk and attract investment.
 Meanwhile, Finance and Tech are already leading in ESG scores, a perfect industry for investment options.
 
